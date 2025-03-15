@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am the file 3 !
+=======
+I am the file 3 !
+>>>>>>> branch_1
